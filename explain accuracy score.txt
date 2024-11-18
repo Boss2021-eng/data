@@ -1,0 +1,6 @@
+explain accuracy score
+precision score 
+recall score
+
+deep learning computer vision
+https://www.youtube.com/watch?v=IA3WxTTPXqQ&t=7839s
